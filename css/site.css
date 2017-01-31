@@ -1,0 +1,69 @@
+
+/* CUSTOMIZE SITE
+-------------------------------------------------- */
+body {
+  color: #464a4c;
+  font-family: 'Economica', sans-serif;
+}
+
+.jumbotron {
+  /*margin-bottom: 0;*/
+  background-color: transparent;
+}
+
+.jumbotron-section-intro{
+  padding-bottom: 0px;
+}
+
+b, strong {
+  font-weight: 700;
+  color: purple;
+}
+
+@media (max-width: 575px) {
+  .section-intro{
+    font-size: 4rem; /*reduced to fit small screen*/
+  }
+}
+
+/* CUSTOMIZE THE INTRO-BANNER
+-------------------------------------------------- */
+
+#target{ /*used in animating intro jumbotron text*/
+  font-weight: 700;
+  color: purple;
+}
+
+.intro-background {
+  background: url("../images/intro-two-devs.png") no-repeat left top;
+  background-size: 1500px;
+  z-index: -1;
+}
+
+.intro-brand{
+  font-family: 'Orbitron', sans-serif ;
+  font-weight: 700;
+  padding-top: 100px;
+}
+
+/* RESULT CARDS
+-------------------------------------------------- */
+.result-card{
+	min-height: 300px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 10px;
+}
+
+.result-cards{
+  margin-left: 10px;
+}
+
+/* PROFILE CARDS
+-------------------------------------------------- */
+
+.profile{
+	min-width: 200px;
+	margin: 10px;
+}

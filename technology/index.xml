@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologies on ResultGrid</title>
+    <link>https://oladele.github.io/site_321results/technology/index.xml</link>
+    <description>Recent content in Technologies on ResultGrid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved - ResultGrid</copyright>
+    <lastBuildDate>Sat, 21 Jan 2017 13:16:21 -0500</lastBuildDate>
+    <atom:link href="https://oladele.github.io/site_321results/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>big data</title>
+      <link>https://oladele.github.io/site_321results/technology/big-data/</link>
+      <pubDate>Sat, 21 Jan 2017 13:16:21 -0500</pubDate>
+      
+      <guid>https://oladele.github.io/site_321results/technology/big-data/</guid>
+      <description>&lt;p&gt;Its true. &amp;ldquo;Big Data&amp;rdquo; is an over-used industry buzz-word. But its real. And there are great insights to be gained from low-hanging Big Data business use-cases. Conventional or &amp;ldquo;normal&amp;rdquo; business applications rely on structured data with predetermined links between data sets from different systems. For example, customer details in the online ecommerce system match up with customer details in the &amp;ldquo;service appointments&amp;rdquo; system. This kind of data is used in typical business analytics. But what about the click stream data of users, that may or may not be customers, who are browsing your marketing or ecommerce sites. Or data from underlying web servers which respond to resource requests before redirecting business-logic transactions to application servers. All these sub-systems produce data which is valuable when harvested intelligently and cost-effectively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Web Apps</title>
+      <link>https://oladele.github.io/site_321results/technology/normal-data/</link>
+      <pubDate>Sat, 21 Jan 2017 13:16:32 -0500</pubDate>
+      
+      <guid>https://oladele.github.io/site_321results/technology/normal-data/</guid>
+      <description>&lt;p&gt;While &amp;ldquo;Big Data&amp;rdquo; gets all the hype these days, conventional internet-powered  applications are still powering of digital innovation in almost all business sectors. Internet-powered solutions, in the form of web apps and mobile apps, are revolutionizing business functions. These new apps are reducing costs and increasing revenues by enabling business customers, partners and employees to collaborate more efficiently or reduce friction in sales &amp;amp; service interactions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>system improvement</title>
+      <link>https://oladele.github.io/site_321results/technology/system-improvement/</link>
+      <pubDate>Sat, 21 Jan 2017 13:16:59 -0500</pubDate>
+      
+      <guid>https://oladele.github.io/site_321results/technology/system-improvement/</guid>
+      <description>&lt;p&gt;In addition to building whole new systems or system sub-components, we can smoothly increase the speed and agility of your end-to-end delivery process by enhancing your new/existing systems&amp;rsquo; performance analytics, automated integration, deployment and testing capabilities.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

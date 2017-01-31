@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featurettes on ResultGrid</title>
+    <link>https://oladele.github.io/site_321results/featurette/index.xml</link>
+    <description>Recent content in Featurettes on ResultGrid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved - ResultGrid</copyright>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <atom:link href="https://oladele.github.io/site_321results/featurette/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Big Data. Big Cost Savings.</title>
+      <link>https://oladele.github.io/site_321results/featurette/big-data-verizon/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://oladele.github.io/site_321results/featurette/big-data-verizon/</guid>
+      <description>&lt;p&gt;Increased system performance while saving thousands of hours of operations&amp;rsquo; troubleshooting time by implementing Hadoop, Elasticsearch, Logstash, Kibana for distributed storage and analytics of Verizon&amp;rsquo;s system logs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internet Of Things. Internet Of Opportunity.</title>
+      <link>https://oladele.github.io/site_321results/featurette/iot-undisclosed/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://oladele.github.io/site_321results/featurette/iot-undisclosed/</guid>
+      <description>&lt;p&gt;Saved 1,000s of hours of client&amp;rsquo;s tech development time by streamlining client&amp;rsquo;s IOT platform development with automated tests. In addition, our &lt;b&gt;resultants&lt;/b&gt; leveraged this automation framework to expand client&amp;rsquo;s IOT offerings to include simulation and 3D visualization of Smart Cities solutions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Custom SAAS. More Sales.</title>
+      <link>https://oladele.github.io/site_321results/featurette/saas-noovis/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://oladele.github.io/site_321results/featurette/saas-noovis/</guid>
+      <description>&lt;p&gt;Saved 1,000s of hours of client&amp;rsquo;s tech development time by streamlining client&amp;rsquo;s IOT platform development with automated tests. In addition, our &lt;b&gt;resultants&lt;/b&gt; leveraged this automation framework to expand client&amp;rsquo;s IOT offerings to include simulation and 3D visualization of Smart Cities solutions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Devops. Faster Ops.</title>
+      <link>https://oladele.github.io/site_321results/featurette/devops-api-hotels/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://oladele.github.io/site_321results/featurette/devops-api-hotels/</guid>
+      <description>&lt;p&gt;Saved 1,000s of hours of client&amp;rsquo;s tech development time by streamlining client&amp;rsquo;s IOT platform development with automated tests. In addition, our &lt;b&gt;resultants&lt;/b&gt; leveraged this automation framework to expand client&amp;rsquo;s IOT offerings to include simulation and 3D visualization of Smart Cities solutions&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

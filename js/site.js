@@ -22,7 +22,7 @@ $( window ).on( "load", function() {
 
 function animation_loop() {
   
-  var target_words = ["Analysts", "Scientists", "Evangelists", "Developers"];
+  var target_words = ["Analysts", "Scientists", "Developers", "Evangelists", "Makers"];
   var words_count = target_words.length;
   var counter = 0;
   var word_index = 0;

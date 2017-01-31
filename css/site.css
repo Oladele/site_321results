@@ -35,8 +35,8 @@ b, strong {
 }
 
 .intro-background {
-  background: url("../images/intro-two-devs.png") no-repeat left top;
-  background-size: 1500px;
+  background: url("../images/intro-two-devs-grid.png") no-repeat left top;
+  background-size: cover;
   z-index: -1;
 }
 

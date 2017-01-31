@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devops on ResultGrid</title>
-    <link>https://oladele.github.io/site_321results/tags/devops/index.xml</link>
+    <link>http://resultgrid.com/tags/devops/index.xml</link>
     <description>Recent content in Devops on ResultGrid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All Rights Reserved - ResultGrid</copyright>
-    <atom:link href="https://oladele.github.io/site_321results/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://resultgrid.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Devops. Faster Ops.</title>
-      <link>https://oladele.github.io/site_321results/featurette/devops-api-hotels/</link>
+      <link>http://resultgrid.com/featurette/devops-api-hotels/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/featurette/devops-api-hotels/</guid>
+      <guid>http://resultgrid.com/featurette/devops-api-hotels/</guid>
       <description>&lt;p&gt;Saved 1,000s of hours of client&amp;rsquo;s tech development time by streamlining client&amp;rsquo;s IOT platform development with automated tests. In addition, our &lt;b&gt;resultants&lt;/b&gt; leveraged this automation framework to expand client&amp;rsquo;s IOT offerings to include simulation and 3D visualization of Smart Cities solutions&lt;/p&gt;
 </description>
     </item>

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ResultGrid</title>
-    <link>https://oladele.github.io/site_321results/index.xml</link>
+    <link>http://resultgrid.com/index.xml</link>
     <description>Recent content on ResultGrid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All Rights Reserved - ResultGrid</copyright>
     <lastBuildDate>Sat, 21 Jan 2017 13:16:21 -0500</lastBuildDate>
-    <atom:link href="https://oladele.github.io/site_321results/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://resultgrid.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>big data</title>
-      <link>https://oladele.github.io/site_321results/technology/big-data/</link>
+      <link>http://resultgrid.com/technology/big-data/</link>
       <pubDate>Sat, 21 Jan 2017 13:16:21 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/technology/big-data/</guid>
+      <guid>http://resultgrid.com/technology/big-data/</guid>
       <description>&lt;p&gt;Its true. &amp;ldquo;Big Data&amp;rdquo; is an over-used industry buzz-word. But its real. And there are great insights to be gained from low-hanging Big Data business use-cases. Conventional or &amp;ldquo;normal&amp;rdquo; business applications rely on structured data with predetermined links between data sets from different systems. For example, customer details in the online ecommerce system match up with customer details in the &amp;ldquo;service appointments&amp;rdquo; system. This kind of data is used in typical business analytics. But what about the click stream data of users, that may or may not be customers, who are browsing your marketing or ecommerce sites. Or data from underlying web servers which respond to resource requests before redirecting business-logic transactions to application servers. All these sub-systems produce data which is valuable when harvested intelligently and cost-effectively.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>reddy</title>
-      <link>https://oladele.github.io/site_321results/team/reddy/</link>
+      <link>http://resultgrid.com/team/reddy/</link>
       <pubDate>Sat, 21 Jan 2017 09:37:50 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/team/reddy/</guid>
+      <guid>http://resultgrid.com/team/reddy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Savings</title>
-      <link>https://oladele.github.io/site_321results/result/hours-saved/</link>
+      <link>http://resultgrid.com/result/hours-saved/</link>
       <pubDate>Fri, 20 Jan 2017 17:45:31 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/result/hours-saved/</guid>
+      <guid>http://resultgrid.com/result/hours-saved/</guid>
       <description>&lt;p&gt;Our Client&amp;rsquo;s IT Ops teams, using ResultGrid&amp;rsquo;s &lt;strong&gt;Agile Acceleration&lt;/strong&gt; continuos integration/deployment tools and services saves 1,000&amp;rsquo;s of hours yearly.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Big Data. Big Cost Savings.</title>
-      <link>https://oladele.github.io/site_321results/featurette/big-data-verizon/</link>
+      <link>http://resultgrid.com/featurette/big-data-verizon/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/featurette/big-data-verizon/</guid>
+      <guid>http://resultgrid.com/featurette/big-data-verizon/</guid>
       <description>&lt;p&gt;Increased system performance while saving thousands of hours of operations&amp;rsquo; troubleshooting time by implementing Hadoop, Elasticsearch, Logstash, Kibana for distributed storage and analytics of Verizon&amp;rsquo;s system logs&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Creating a new theme</title>
-      <link>https://oladele.github.io/site_321results/post/creating-a-new-theme/</link>
+      <link>http://resultgrid.com/post/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/post/creating-a-new-theme/</guid>
+      <guid>http://resultgrid.com/post/creating-a-new-theme/</guid>
       <description>&lt;h2 id=&#34;p1-introduction&#34;&gt;P1: Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
@@ -1151,39 +1151,39 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>Business Web Apps</title>
-      <link>https://oladele.github.io/site_321results/technology/normal-data/</link>
+      <link>http://resultgrid.com/technology/normal-data/</link>
       <pubDate>Sat, 21 Jan 2017 13:16:32 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/technology/normal-data/</guid>
+      <guid>http://resultgrid.com/technology/normal-data/</guid>
       <description>&lt;p&gt;While &amp;ldquo;Big Data&amp;rdquo; gets all the hype these days, conventional internet-powered  applications are still powering of digital innovation in almost all business sectors. Internet-powered solutions, in the form of web apps and mobile apps, are revolutionizing business functions. These new apps are reducing costs and increasing revenues by enabling business customers, partners and employees to collaborate more efficiently or reduce friction in sales &amp;amp; service interactions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ola</title>
-      <link>https://oladele.github.io/site_321results/team/ola/</link>
+      <link>http://resultgrid.com/team/ola/</link>
       <pubDate>Sat, 21 Jan 2017 10:58:27 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/team/ola/</guid>
+      <guid>http://resultgrid.com/team/ola/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased Revenue</title>
-      <link>https://oladele.github.io/site_321results/result/sales-increased/</link>
+      <link>http://resultgrid.com/result/sales-increased/</link>
       <pubDate>Sat, 21 Jan 2017 09:23:31 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/result/sales-increased/</guid>
+      <guid>http://resultgrid.com/result/sales-increased/</guid>
       <description>&lt;p&gt;Our client&amp;rsquo;s executives use ResultGrid&amp;rsquo;s custom-developed Network Management &lt;strong&gt;Business Web App&lt;/strong&gt; in customer demos to achieve decisive market differentiation which enabled 100,000&amp;rsquo;s in additional sales&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Go is for lovers</title>
-      <link>https://oladele.github.io/site_321results/post/go-is-for-lovers/</link>
+      <link>http://resultgrid.com/post/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/post/go-is-for-lovers/</guid>
+      <guid>http://resultgrid.com/post/go-is-for-lovers/</guid>
       <description>&lt;h2 id=&#34;p2-go-is-for-lovers&#34;&gt;P2: Go is for lovers&lt;/h2&gt;
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -1243,7 +1243,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;https://Oladele.github.io/site_321results/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;http://resultgrid.com/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -1260,7 +1260,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;https://Oladele.github.io/site_321results/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;http://resultgrid.com/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -1448,7 +1448,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;https://Oladele.github.io/site_321results/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;http://resultgrid.com/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -1526,59 +1526,59 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Internet Of Things. Internet Of Opportunity.</title>
-      <link>https://oladele.github.io/site_321results/featurette/iot-undisclosed/</link>
+      <link>http://resultgrid.com/featurette/iot-undisclosed/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/featurette/iot-undisclosed/</guid>
+      <guid>http://resultgrid.com/featurette/iot-undisclosed/</guid>
       <description>&lt;p&gt;Saved 1,000s of hours of client&amp;rsquo;s tech development time by streamlining client&amp;rsquo;s IOT platform development with automated tests. In addition, our &lt;b&gt;resultants&lt;/b&gt; leveraged this automation framework to expand client&amp;rsquo;s IOT offerings to include simulation and 3D visualization of Smart Cities solutions&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>system improvement</title>
-      <link>https://oladele.github.io/site_321results/technology/system-improvement/</link>
+      <link>http://resultgrid.com/technology/system-improvement/</link>
       <pubDate>Sat, 21 Jan 2017 13:16:59 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/technology/system-improvement/</guid>
+      <guid>http://resultgrid.com/technology/system-improvement/</guid>
       <description>&lt;p&gt;In addition to building whole new systems or system sub-components, we can smoothly increase the speed and agility of your end-to-end delivery process by enhancing your new/existing systems&amp;rsquo; performance analytics, automated integration, deployment and testing capabilities.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>kathleen</title>
-      <link>https://oladele.github.io/site_321results/team/kathleen/</link>
+      <link>http://resultgrid.com/team/kathleen/</link>
       <pubDate>Sat, 21 Jan 2017 10:58:40 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/team/kathleen/</guid>
+      <guid>http://resultgrid.com/team/kathleen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increase In Performance</title>
-      <link>https://oladele.github.io/site_321results/result/perf-increased/</link>
+      <link>http://resultgrid.com/result/perf-increased/</link>
       <pubDate>Sat, 21 Jan 2017 09:23:40 -0500</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/result/perf-increased/</guid>
+      <guid>http://resultgrid.com/result/perf-increased/</guid>
       <description>&lt;p&gt;Our client&amp;rsquo;s Tech delivery team - Developers, System Admins, Performance Testers - collectively used ResultGrid&amp;rsquo;s &lt;strong&gt;Big Data&lt;/strong&gt; Analytics system to increase the throughput of their digital media processing platform by 20X.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Custom SAAS. More Sales.</title>
-      <link>https://oladele.github.io/site_321results/featurette/saas-noovis/</link>
+      <link>http://resultgrid.com/featurette/saas-noovis/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/featurette/saas-noovis/</guid>
+      <guid>http://resultgrid.com/featurette/saas-noovis/</guid>
       <description>&lt;p&gt;Saved 1,000s of hours of client&amp;rsquo;s tech development time by streamlining client&amp;rsquo;s IOT platform development with automated tests. In addition, our &lt;b&gt;resultants&lt;/b&gt; leveraged this automation framework to expand client&amp;rsquo;s IOT offerings to include simulation and 3D visualization of Smart Cities solutions&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://oladele.github.io/site_321results/post/hugo-is-for-lovers/</link>
+      <link>http://resultgrid.com/post/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://oladele.github.io/site_321results/post/hugo-is-for-lovers/</guid>
+      <guid>http://resultgrid.com/post/hugo-is-for-lovers/</guid>
       <description>&lt;h2 id=&#34;p3-step-1-install-hugo&#34;&gt;P3: Step 1. Install Hugo&lt;/h2&gt;
 
 &lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
@@ -1586,7 +1586,7 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://Oladele.github.io/site_321results/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://resultgrid.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 

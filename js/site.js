@@ -22,7 +22,7 @@ $( window ).on( "load", function() {
 
 function animation_loop() {
   
-  var target_words = ["Analysts", "Scientists", "Developers", "Evangelists", "Programmers"];
+  var target_words = ["Analysts", "Scientists", "Evangelists", "Developers"];
   var words_count = target_words.length;
   var counter = 0;
   var word_index = 0;
@@ -35,7 +35,7 @@ function animation_loop() {
       zero_or_one = (zero_or_one + 1) % 2;
 
       // index for looping through list of words
-      word_index = (counter) % 3;
+      word_index = (counter) % 5;
       counter += 1;
 
 			if (zero_or_one) {

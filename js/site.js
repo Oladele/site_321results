@@ -18,6 +18,11 @@ $( window ).on( "load", function() {
 
 	animation_loop();
 
+  // Collapse nav menu items when clicked
+  $('nav .collapse-on-click').click(function(){
+    $('.navbar-collapse').collapse('hide')
+  });
+
 });
 
 function animation_loop() {

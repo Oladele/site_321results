@@ -26,6 +26,17 @@ b, strong {
   }
 }
 
+.section-link-target{
+  display: block;
+  height: 50px; /*same height as header*/
+  margin-top: -50px; /*same height as header*/
+  visibility: hidden;
+}
+
+.text-muted{
+  color: #a5b2ba !important;
+}
+
 /* CUSTOMIZE THE INTRO-BANNER
 -------------------------------------------------- */
 
@@ -38,6 +49,7 @@ b, strong {
   background: url("../images/intro-two-devs-grid.png") no-repeat left top;
   background-size: cover;
   z-index: -1;
+  margin-top:50px;
 }
 
 .intro-brand{
@@ -50,7 +62,7 @@ b, strong {
 -------------------------------------------------- */
 .result-card{
 	min-height: 300px;
-  width: 300px;
+  width: 250px;
   display: inline-block;
   vertical-align: top;
   margin: 0 10px;
@@ -60,10 +72,51 @@ b, strong {
   margin-left: 10px;
 }
 
+
+/* Medium devices (landscape phones, 768px and up) */
+@media (min-width:768px) {
+  .result-map {
+    background: url("../images/map.png") no-repeat right top;
+    background-size: 800px;
+    background-position: bottom right;
+    z-index: -1;
+  }
+  .result-map-mobile {
+    display: none !important;
+  }
+}
+
+
 /* PROFILE CARDS
 -------------------------------------------------- */
 
 .profile{
 	min-width: 200px;
 	margin: 10px;
+}
+
+/* Small devices (landscape phones, less than 768px) */
+/* Hide team profiles */
+@media (max-width:767px) {
+  .team-profiles-container {
+    display: none !important;
+  }
+}
+
+
+/* TECH PANEL
+-------------------------------------------------- */
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width:767px) {
+  .tech-image-in-media-class {
+    display: none !important;
+  }
+}
+
+/* Medium devices (landscape phones, 768px and up) */
+@media (min-width:768px) {
+  .tech-image-mobile {
+    display: none !important;
+  }
 }

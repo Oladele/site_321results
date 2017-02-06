@@ -6,7 +6,7 @@
     <description>Recent content on ResultGrid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>All Rights Reserved - ResultGrid</copyright>
+    <copyright>65 High Ridge Road, Unit 247, Stamford, CT, 06905</copyright>
     <lastBuildDate>Sat, 21 Jan 2017 13:16:21 -0500</lastBuildDate>
     <atom:link href="http://resultgrid.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
       <pubDate>Sat, 21 Jan 2017 13:16:21 -0500</pubDate>
       
       <guid>http://resultgrid.com/technology/big-data/</guid>
-      <description>&lt;p&gt;Its true. &amp;ldquo;Big Data&amp;rdquo; is an over-used industry buzz-word. But its real. And there are great insights to be gained from low-hanging Big Data business use-cases. Conventional or &amp;ldquo;normal&amp;rdquo; business applications rely on structured data with predetermined links between data sets from different systems. For example, customer details in the online ecommerce system match up with customer details in the &amp;ldquo;service appointments&amp;rdquo; system. This kind of data is used in typical business analytics. But what about the click stream data of users, that may or may not be customers, who are browsing your marketing or ecommerce sites. Or data from underlying web servers which respond to resource requests before redirecting business-logic transactions to application servers. All these sub-systems produce data which is valuable when harvested intelligently and cost-effectively.&lt;/p&gt;
+      <description>&lt;p&gt;Conventional or &amp;ldquo;normal&amp;rdquo; business applications rely on structured data with predetermined links between data sets from different systems. For example, customer details in your ecommerce system is linked, via a customer ID field, with customer details in you CRM. But what about web client and web server click stream data of users who may not be customers? These and other systems produce data which is valuable when harvested intelligently and cost-effectively.&lt;/p&gt;
 </description>
     </item>
     
@@ -30,12 +30,12 @@
     </item>
     
     <item>
-      <title>Time Savings</title>
+      <title>Time Saved</title>
       <link>http://resultgrid.com/result/hours-saved/</link>
       <pubDate>Fri, 20 Jan 2017 17:45:31 -0500</pubDate>
       
       <guid>http://resultgrid.com/result/hours-saved/</guid>
-      <description>&lt;p&gt;Our Client&amp;rsquo;s IT Ops teams, using ResultGrid&amp;rsquo;s &lt;strong&gt;Agile Acceleration&lt;/strong&gt; continuos integration/deployment tools and services saves 1,000&amp;rsquo;s of hours yearly.&lt;/p&gt;
+      <description>&lt;p&gt;Our Client&amp;rsquo;s IT Ops teams, using ResultGrid&amp;rsquo;s &lt;strong&gt;&lt;a href=&#34;#agile&#34;&gt;Agile Acceleration&lt;/a&gt;&lt;/strong&gt; continuos integration/deployment tools and services saves 1,000&amp;rsquo;s of hours yearly.&lt;/p&gt;
 </description>
     </item>
     
@@ -1174,7 +1174,7 @@ $ vi themes/zafta/layouts/_default/single.html
       <pubDate>Sat, 21 Jan 2017 09:23:31 -0500</pubDate>
       
       <guid>http://resultgrid.com/result/sales-increased/</guid>
-      <description>&lt;p&gt;Our client&amp;rsquo;s executives use ResultGrid&amp;rsquo;s custom-developed  &lt;strong&gt;Sales Enablement&lt;/strong&gt; business web app in customer demos to achieve decisive market differentiation which enabled $100,000&amp;rsquo;s in additional sales&lt;/p&gt;
+      <description>&lt;p&gt;Our client&amp;rsquo;s executives use ResultGrid&amp;rsquo;s custom-developed  &lt;strong&gt;&lt;a href=&#34;#web-app&#34;&gt;Sales Enablement&lt;/a&gt;&lt;/strong&gt; business web app in customer demos to achieve decisive market differentiation which enabled $100,000&amp;rsquo;s in additional sales&lt;/p&gt;
 </description>
     </item>
     
@@ -1554,12 +1554,12 @@ so, such as in this example:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Increase In Throughput</title>
+      <title>Increased Throughput</title>
       <link>http://resultgrid.com/result/perf-increased/</link>
       <pubDate>Sat, 21 Jan 2017 09:23:40 -0500</pubDate>
       
       <guid>http://resultgrid.com/result/perf-increased/</guid>
-      <description>&lt;p&gt;Our client&amp;rsquo;s Tech delivery team - Developers, System Admins, Performance Testers - collectively used ResultGrid&amp;rsquo;s &lt;strong&gt;Big Data&lt;/strong&gt; Analytics solutions and services to increase the throughput of their digital media processing platform by 20X.&lt;/p&gt;
+      <description>&lt;p&gt;Our client&amp;rsquo;s Tech delivery team - Developers, System Admins, Performance Testers - collectively used ResultGrid&amp;rsquo;s &lt;strong&gt;&lt;a href=&#34;#big-data&#34;&gt;Big Data&lt;/a&gt;&lt;/strong&gt; Analytics solutions and services to increase the throughput of their digital media processing platform by 20X.&lt;/p&gt;
 </description>
     </item>
     

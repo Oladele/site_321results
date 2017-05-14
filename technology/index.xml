@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>65 High Ridge Road, Unit 247, Stamford, CT, 06905</copyright>
-    <lastBuildDate>Sat, 21 Jan 2017 13:16:21 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 08:03:01 -0400</lastBuildDate>
     <atom:link href="http://resultgrid.com/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>iot city traffic sim</title>
+      <link>http://resultgrid.com/technology/iot-city-traffic-sim/</link>
+      <pubDate>Sun, 14 May 2017 08:03:01 -0400</pubDate>
+      
+      <guid>http://resultgrid.com/technology/iot-city-traffic-sim/</guid>
+      <description>&lt;p&gt;Studies show about 30% of fatalities and 40% of serious injuries occur at intersections. Working with a major IOT platform provider in the US, we developed powerful smart city traffic simulation, which includes IOT sensors. Our smart city IOT simulation capabilities provides rich, dynamic, reliable IOT sensor events which can be used to demonstrate (and to build/test) capabilities of IOT roll-outs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>big data</title>

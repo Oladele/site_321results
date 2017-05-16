@@ -17,9 +17,12 @@ body {
 
 b, strong {
   font-weight: 700;
-  color: purple;
+  /*color: purple;*/
 }
 
+a {
+  color: purple;
+}
 @media (max-width: 575px) {
   .section-intro{
     font-size: 4rem; /*reduced to fit small screen*/
@@ -129,6 +132,10 @@ b, strong {
   background-color: #FF00FF;
 }
 
-.second-nav-bar strong, a, a:hover{
+.second-nav-bar a {
+  color: #ffffff;
+}
+
+.second-nav-bar a strong {
   color: #ffffff;
 }

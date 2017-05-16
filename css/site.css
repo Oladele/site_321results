@@ -28,7 +28,7 @@ b, strong {
 
 .section-link-target{
   display: block;
-  height: 50px; /*same height as header*/
+  height: 100px; /*same height as header(s)*/
   margin-top: -50px; /*same height as header*/
   visibility: hidden;
 }
@@ -119,4 +119,16 @@ b, strong {
   .tech-image-mobile {
     display: none !important;
   }
+}
+
+/* SECOND NAV BAR 
+-------------------------------------------------- */
+.second-nav-bar {
+  padding-top: 50px;
+  z-index: 1029;
+  background-color: #FF00FF;
+}
+
+.second-nav-bar strong, a, a:hover{
+  color: #ffffff;
 }

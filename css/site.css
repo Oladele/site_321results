@@ -139,3 +139,10 @@ a {
 .second-nav-bar a strong {
   color: #ffffff;
 }
+
+/* ZOHO EMBED BUTTON FOR IOT SOLUTION
+-------------------------------------------------- */
+
+#EMBED_BUTTON{
+  margin-bottom: 10px;
+}

@@ -40,6 +40,13 @@ a {
   color: #a5b2ba !important;
 }
 
+.btn-primary{
+  background-color:  #FF00FF;
+  border-color: #A0000A;
+  border-radius: .5em;
+  margin: 5px;
+}
+
 /* CUSTOMIZE THE INTRO-BANNER
 -------------------------------------------------- */
 

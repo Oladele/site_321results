@@ -47,6 +47,10 @@ a {
   margin: 5px;
 }
 
+.btn-primary:hover, .btn-primary:active{
+  background-color: #880088;
+}
+
 /* CUSTOMIZE THE INTRO-BANNER
 -------------------------------------------------- */
 
